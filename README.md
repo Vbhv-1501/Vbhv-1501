@@ -57,9 +57,9 @@ I am always open to learning, collaboration, and new opportunities.
 
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbhv-1501&show_icons=true&hide_border=true&bg_color=151515&title_color=ff003c&icon_color=ff003c&text_color=9e9e9e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vbhv-1501&show_icons=true&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vbhv-1501&theme=dark&ring=ff003c&fire=ff003c&currStreakNum=ff003c&sideNums=ff003c&currStreakLabel=ff003c&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhv-1501&layout=compact&theme=radical&hide_border=true)
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/Vbhv-1501/Vbhv-1501/blob/output/github-contribution-grid-snake.svg)
