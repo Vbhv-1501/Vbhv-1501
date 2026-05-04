@@ -1,89 +1,28 @@
-# 👋 Hi, I'm Vaibhav Pratap Singh
+<!-- CYBERPUNK HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=VAIBHAV%20PRATAP%20SINGH&animation=fadeIn&type=waving&color=0:0f0c29,100:ff003c&height=120&fontColor=ffffff"/>
+</p>
 
-🚀 Full Stack Developer | 🌐 Web Enthusiast | 📈 SEO Strategist
+<h1 align="center">⚡ Vbhv-1501 ⚡</h1>
 
----
+<p align="center">
+  <b>Full Stack Developer • SEO Specialist • Building Real Digital Systems</b>
+</p>
 
-## 💡 About Me
-
-* 🔭 Currently building **scalable web platforms & marketplaces**
-* 🌱 Exploring **advanced backend systems & performance optimization**
-* 🧠 Strong interest in **SEO, digital growth & product development**
-* 💬 Ask me about **PHP, JavaScript, React, SEO, and Web Development**
-* ⚡ I turn ideas into **real working products**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Frontend
-
-* HTML5, CSS3, JavaScript
-* React.js
-* Tailwind CSS / Bootstrap
-
-### ⚙️ Backend
-
-* PHP (Core PHP)
-* REST APIs
-* MySQL
-
-### 🔧 Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* cPanel / Hosting
-* SEO Tools (Ahrefs, GSC, Analytics)
+<p align="center">
+  🚀 <a href="https://vaibhavv.vercel.app/">Portfolio</a>
+</p>
 
 ---
 
-## 🚀 Projects
+## ⚡ SYSTEM PROFILE
 
-### 🔹 Mobile Store (E-commerce System)
-
-* Full-stack project with **admin panel + order tracking**
-* Features: Cart, PayPal integration, order status system
-
-### 🔹 Team Free Study Resources 💛
-
-* Free learning platform providing **accessible education resources**
-* Focused on helping students without paid barriers
-
-### 🔹 Exporters Worlds
-
-* SEO-driven platform for **global trade & export insights**
-* Blog + content marketing + lead generation
-
----
-
-## 📊 GitHub Stats
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbhv-1501\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhv-1501\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: *[(Add your link)](https://www.linkedin.com/in/vaibhav2210/)*
-* 🌍 Website: *[(Add your portfolio link)](https://vaibhavvv.netlify.app/)*
-* 📧 Email: [vaibhavthakur410@gmail.com](mailto:vaibhavthakur410@gmail.com)
-
----
-
-## 🎯 Current Focus
-
-* Building **production-level full stack applications**
-* Improving **UI/UX + performance**
-* Scaling **SEO-driven platforms**
-
----
-
-## ⚡ Fun Fact
-
-I don’t just build websites — I build **systems that generate traffic, users, and revenue.**
-
----
-
-⭐ *If you like my work, consider giving a star to my repositories!*
+```yaml
+name: Vaibhav Pratap Singh
+role: Full Stack Developer
+focus: Full Stack Systems + SEO + Growth Engineering
+current_work:
+  - Scalable Web Platforms
+  - Marketplace Systems
+  - SEO-driven Web Applications
+vision: Build products that solve real problems, not just demos
